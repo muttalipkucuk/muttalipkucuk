@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Java and Microsoft Azure.
-- 💬 Ask me about Java.
 - 📫 How to reach me: jobs@kucuktech.com
 
 <!--
